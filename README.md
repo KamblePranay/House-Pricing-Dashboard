@@ -1,4 +1,4 @@
-#"Dynamic Housing Market Insights Dashboard"**
+# **Dynamic Housing Market Insights Dashboard**
 
 In this data-driven project, we meticulously crafted an interactive Tableau dashboard that transcends mere data visualization—it's an immersive experience. Our canvas features a symphony of visual elements, each playing a vital role in narrating the captivating tale of average house prices across diverse regions.
 
